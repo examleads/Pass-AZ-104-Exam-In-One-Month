@@ -1,3 +1,11 @@
+![PDF Size](https://img.shields.io/badge/PDF-Preview-blue?style=flat-square&logo=adobeacrobatreader&logoColor=yellow)
+![Exam Code](https://img.shields.io/badge/AZ--104-Microsoft%20Identity-orange?style=flat-square&logo=microsoft)
+![Updated](https://img.shields.io/badge/Updated-2025-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-informational?style=flat-square&logoColor=skyblue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=examleads.ai102)
+![Last Updated](https://img.shields.io/badge/Updated-July%202025-brightgreen)
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # Pass AZ-104: Microsoft Azure Administrator Exam in 1 Month (First Attempt Guide)
 
 The **AZ-104: Microsoft Azure Administrator** exam tests your real-world Azure skills — not just theory. But with a focused 30-day plan, smart resources, and actual practice, **you can pass it in your first attempt** confidently.
