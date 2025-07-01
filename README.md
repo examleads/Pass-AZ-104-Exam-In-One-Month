@@ -76,7 +76,14 @@ And to do that effectively, **get your hands on the RealExamCollection AZ-104 Ex
 * Backed by a **money-back guarantee** if you fail
 * Designed to help you pass fast
 
-🏱 **20% discount available now** — but expiring soon!
+> **20% discount available now** — but expiring soon!
+
+### 📘 AZ-104 Sample Questions Preview
+
+![AZ-104 Sample Questions Preview](AZ-104_Sample_Questions_Preview.png)
+
+📥 **[Download Full PDF](AZ-104_Sample_Questions_2025.pdf)**
+
 
 👉 [**Download AZ-104 Dumps Now** – RealExamCollection](https://www.realexamcollection.com/microsoft/az-104-dumps.html)
 
