@@ -80,9 +80,7 @@ And to do that effectively, **get your hands on the RealExamCollection AZ-104 Ex
 
 ### 📘 AZ-104 Sample Questions Preview
 
-![AZ-104 Sample Questions Preview](AZ-104_Sample_Questions_Preview.png)
-
-📥 **[Download Full PDF](AZ-104_Sample_Questions_2025.pdf)**
+![AZ-104 Sample Questions Preview](AZ-104_Sample_Questions_2025.pdf)
 
 
 👉 [**Download AZ-104 Dumps Now** – RealExamCollection](https://www.realexamcollection.com/microsoft/az-104-dumps.html)
