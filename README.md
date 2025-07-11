@@ -2,7 +2,7 @@
 ![Exam Code](https://img.shields.io/badge/AZ--104-Microsoft%20Identity-orange?style=flat-square&logo=microsoft)
 ![Updated](https://img.shields.io/badge/Updated-2025-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat-square&logoColor=skyblue)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=examleads.ai102)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=examleads.az104)
 ![Last Updated](https://img.shields.io/badge/Updated-July%202025-brightgreen)
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
